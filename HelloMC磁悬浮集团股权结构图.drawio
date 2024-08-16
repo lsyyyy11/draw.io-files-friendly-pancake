@@ -10,7 +10,7 @@
         <mxCell id="YLKbxaUkC0cMNsDM5zvM-1" value="磁悬浮路网管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YLKbxaUkC0cMNsDM5zvM-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.705;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7a84cebc1def654-8" target="YLKbxaUkC0cMNsDM5zvM-1">
+        <mxCell id="YLKbxaUkC0cMNsDM5zvM-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YLKbxaUkC0cMNsDM5zvM-35" target="YLKbxaUkC0cMNsDM5zvM-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="490" as="sourcePoint" />
             <mxPoint x="720" y="490" as="targetPoint" />
@@ -31,7 +31,7 @@
             <mxPoint x="610" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YLKbxaUkC0cMNsDM5zvM-10" value="30%" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="YLKbxaUkC0cMNsDM5zvM-9">
+        <mxCell id="YLKbxaUkC0cMNsDM5zvM-10" value="49%" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="YLKbxaUkC0cMNsDM5zvM-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YLKbxaUkC0cMNsDM5zvM-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.375;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YLKbxaUkC0cMNsDM5zvM-7" target="7a84cebc1def654-8">
@@ -40,7 +40,7 @@
             <mxPoint x="590" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YLKbxaUkC0cMNsDM5zvM-12" value="70%" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="YLKbxaUkC0cMNsDM5zvM-11">
+        <mxCell id="YLKbxaUkC0cMNsDM5zvM-12" value="51%" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="YLKbxaUkC0cMNsDM5zvM-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YLKbxaUkC0cMNsDM5zvM-14" value="磁悬浮Pass" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -58,7 +58,7 @@
         <mxCell id="YLKbxaUkC0cMNsDM5zvM-20" value="服务器" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="365" y="475" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YLKbxaUkC0cMNsDM5zvM-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.294;exitY=1.078;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.291;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YLKbxaUkC0cMNsDM5zvM-20" target="YLKbxaUkC0cMNsDM5zvM-1">
+        <mxCell id="YLKbxaUkC0cMNsDM5zvM-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YLKbxaUkC0cMNsDM5zvM-20" target="YLKbxaUkC0cMNsDM5zvM-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="570" as="sourcePoint" />
             <mxPoint x="590" y="570" as="targetPoint" />
@@ -67,7 +67,7 @@
         <mxCell id="YLKbxaUkC0cMNsDM5zvM-22" value="70%" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="YLKbxaUkC0cMNsDM5zvM-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YLKbxaUkC0cMNsDM5zvM-23" value="磁悬浮商店" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YLKbxaUkC0cMNsDM5zvM-23" value="磁悬浮机器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YLKbxaUkC0cMNsDM5zvM-24" value="磁悬浮商店" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="YLKbxaUkC0cMNsDM5zvM-29" value="100%" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="YLKbxaUkC0cMNsDM5zvM-28">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YLKbxaUkC0cMNsDM5zvM-35" value="其他投资方&lt;div&gt;利益联合体&lt;/div&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="475" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
